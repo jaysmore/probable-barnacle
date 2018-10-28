@@ -35,15 +35,19 @@ Our program would allow the user to select each day of the year and input differ
 
 ## Questions to answer for Exercise #2
 
-1. Name: Give your project proposal a name (and edit the top line of this file)
+1. Name: Student Calendar
 
 
 
-2. Output: Describe the output your program will produce.  Include and example format of the output produced.
+2. Output: Program will display dates and times of entered events. 
+           Example: 
+           October 29 2018: 
+           8:50 AM - CS400 Lecture (5208 Sewell Social Sciences)
+           10:00 AM - Breakfast with Sam (1511 Monroe St)
+           1:20 PM - MATH222 Lecture (105 Brogden Psychology Building)
+           3:30 PM - Table Tennis Club (Natatorium)
 
-
-
-3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
+3. Input: 
 
 
 
