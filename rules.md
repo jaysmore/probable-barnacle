@@ -17,7 +17,7 @@ We will read over the task and divide up work equally. If one person has a dispr
 We will create a chart/spreadsheet showing the different parts of the program and who is assigned to each task. This chart will display the status of the tasks/sub-tasks. This document will be available to all group members to edit.  After completion of a task we will notify other group members of our progress and update the tracking document accordingly.
 
 ## How will will communicate difficulties with a task assigned to us
-
+If we are having problems with a task assigned to us, we will communicate this to the other group members either via group chat or in person.  We will then take the steps to try and find a solution to the problem with the task and balance out accordingly.  If no team member is able to solve the issue, we will set up a meeting with a CS tutor to attempt to resolve either the problem or a similar problem so that we can understand what we need to do.
 
 
 ## How we will back up each other to ensure that deadlines are not missed
