@@ -21,7 +21,7 @@ If we are having problems with a task assigned to us, we will communicate this t
 
 
 ## How we will back up each other to ensure that deadlines are not missed
-
+In order to ensure that we meet the deadlines we will check in with the other team members regarding progress at different time intervals depending on the amount of time to do the project.  If someone is falling behind, we will distribute the work accordingly so that the project can be completed on time.  We will consult the progress tracking document accordingly to determine what work is left to do and make sure that work is not overlapping on the deadlines required.
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
