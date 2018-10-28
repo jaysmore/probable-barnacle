@@ -95,6 +95,14 @@ Our program would allow the user to select each day of the year and input differ
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
+          Our solution will be broken down into several different units.
+          
+          1. Variables and structures - Dates would be stored in arrays
+          
+          2. Nodes - Event information would be stored in EventNodes
+          
+          3. Methods - All of the commands would be individual methods used within the program
+
 Name each interface or class and briefly describe its function or purpose.
 
           Class StudentCalendar
