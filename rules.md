@@ -10,10 +10,9 @@ and missed deadlines.
 
 ## How we will assign (and reassign) tasks
 
-
+We will read over the task and divide up work equally. If one person has a disproportionately low/high workload we will have team members with lower workloads help those with higher workloads. Tasks will be assigned via group chat if not in person.
 
 ## How will we will track progress (and follow-up) on completion of tasks
-
 
 
 ## How will will communicate difficulties with a task assigned to us
