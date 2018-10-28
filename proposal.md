@@ -53,9 +53,14 @@ Our program would allow the user to select each day of the year and input differ
            
            3:30 PM - Table Tennis Club (Natatorium)
 
-3. Input: User will enter events with locations and times. User can enter commands to view their schedule on certain days, weeks, etc.
+3. Input: 
+
+User will enter events with locations and times. User can enter commands to view their schedule on certain days, weeks, etc. 
+There will be a list of commands available to select.
 
           Example:
+          
+          Pick a command: *schedule*
           
           Enter event name: *user enters event*
           
