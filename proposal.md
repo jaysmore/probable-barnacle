@@ -68,8 +68,27 @@ Our program would allow the user to select each day of the year and input differ
           
           Enter event location: *user enters event location*
 
-4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
+4. User Interface: We will use a text menu to maneuver around the program.
 
+          Example:
+          
+          Welcome to the Student Calendar.
+          
+          Enter a command.
+          
+          T - Show today's schedule.
+          
+          W - Show this week's schedule.
+          
+          M - Show this month's schedule.
+          
+          S - Schedule an event.
+          
+          R - Remove an event.
+          
+          F - Export schedule to a file.
+          
+          Q - Quit.
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
