@@ -30,7 +30,6 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 ## Problem Description
 
 A problem that our team would like to solve would be organizing our day and time management.  Something to keep track of events and assignments that are upcoming would be nice to have.  Paper can work but it can be easy to lose that so having a back up of that would be helpful.
-Describe at a high level a program that could solve that problem.
 Our program would allow the user to select each day of the year and input different events, assignments, or other plans and what times they are occuring.  The program would have the ability to sort by month, week, and day.  The program would also have the ability to output the schedule to a file so that it can be printed out.
 
 ## Questions to answer for Exercise #2
