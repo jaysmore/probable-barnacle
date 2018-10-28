@@ -104,6 +104,10 @@ Name each interface or class and briefly describe its function or purpose.
           
           Nested Class EventNode
           - Stores event name, location and date/time.
+          
+          Interface CalendarListADT
+          - Stores the information for our custom data structure
+          - Shows the methods available in our custom data structure
 
 
 ## Edit and Submit this file and any figures referenced by this document.
