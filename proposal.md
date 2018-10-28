@@ -40,16 +40,30 @@ Our program would allow the user to select each day of the year and input differ
 
 
 2. Output: Program will display dates and times of entered events. 
+
            Example: 
+           
            October 29 2018: 
+           
            8:50 AM - CS400 Lecture (5208 Sewell Social Sciences)
+           
            10:00 AM - Breakfast with Sam (1511 Monroe St)
+           
            1:20 PM - MATH222 Lecture (105 Brogden Psychology Building)
+           
            3:30 PM - Table Tennis Club (Natatorium)
 
-3. Input: 
+3. Input: User will enter events with locations and times. User can enter commands to view their schedule on certain days, weeks, etc.
 
-
+          Example:
+          
+          Enter event name: *user enters event*
+          
+          Enter event day: *user enters event date*
+          
+          Enter event time: *user enters time of event*
+          
+          Enter event location: *user enters event location*
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
