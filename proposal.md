@@ -82,6 +82,8 @@ Our program would allow the user to select each day of the year and input differ
           
           M - Show this month's schedule.
           
+          L - Look up schedule for certain date.
+          
           S - Schedule an event.
           
           R - Remove an event.
