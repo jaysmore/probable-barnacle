@@ -95,9 +95,15 @@ Our program would allow the user to select each day of the year and input differ
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
-
-
 Name each interface or class and briefly describe its function or purpose.
+
+          Class StudentCalendar
+          - Stores list of years, with each year storing months which store weeks which store days which store events.
+          - Asks for and handles user input.
+          - Saves input to a file and loads previous schedule from file.
+          
+          Nested Class EventNode
+          - Stores event name, location and date/time.
 
 
 ## Edit and Submit this file and any figures referenced by this document.
