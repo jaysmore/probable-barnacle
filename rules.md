@@ -14,6 +14,7 @@ We will read over the task and divide up work equally. If one person has a dispr
 
 ## How will we will track progress (and follow-up) on completion of tasks
 
+We will create a chart/spreadsheet showing the different parts of the program and who is assigned to each task. This chart will display the status of the tasks/sub-tasks. This document will be available to all group members to edit.
 
 ## How will will communicate difficulties with a task assigned to us
 
