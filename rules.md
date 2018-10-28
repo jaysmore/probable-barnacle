@@ -25,6 +25,6 @@ In order to ensure that we meet the deadlines we will check in with the other te
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
-
+We will regularly communicate and set up times for the group to meet. Each member is responsible for completing their work on time along with quicky communicating any problems that arise.
 
 
