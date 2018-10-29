@@ -9,7 +9,7 @@
    * What are the GitHub usernames and names of your team members?
        * GitHub username 1: ders99 name 1: Anders Carlsson
        * GitHub username 2: WillDaru22 name 2: William Wilson
-       * GitHub username 3:       name 3: Jay Park
+       * GitHub username 3: jaysmore name 3: Jay Park
        * GitHub username 4:       name 4:
        * GitHub username 5:       name 5:
    * When did you complete this exercise?
